@@ -1,6 +1,5 @@
-
 #appname
-#HKEY_CURRENT_USER > Software > Classes > Extensions > Contractld > Windows.Protocol >Packageld > ActivableClassId > {APPNAME} > CustomProperties > {name value}
+#HKEY_CURRENT_USER > Software > Classes > Extensions > Contractld > Windows.Protocol >Packageld > {APPNAME} > ActivableClassId > CustomProperties > {name value}
 
 
 
