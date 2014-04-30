@@ -15,6 +15,8 @@ You can override the registry keys by searching out the appname yourself and cha
 Uncomment the line in WSOPLauncher.py
 
     #name = 'xboxliveapp-1297292137'
-and change the string to the appname.
+and change the string to the appname. The appname can be found in registry path (open regedit)
+
+    HKEY_CURRENT_USER > Software > Classes > Extensions > Contractld > Windows.Protocol >Packageld > {APPNAME} > ActivableClassId > CustomProperties > {name's value}
 Recompile the exe with python using the setup.py file (requires py2exe), and start the game from within steam. 
 If you still have problems please make an issue for the repo. 
