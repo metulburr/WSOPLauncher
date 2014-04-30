@@ -1,3 +1,6 @@
+[![Logo](http://i.imgur.com/iA5nuPy.jpg)](http://i.imgur.com)
+[![Logo](http://i.imgur.com/7u7stuq.png)](http://i.imgur.com)
+
 WSOPLauncher
 ============
 Since windows 8 will not allow you to run windows 8 store games from within Steam. 
