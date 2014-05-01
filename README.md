@@ -1,5 +1,5 @@
 [![Logo](http://i.imgur.com/iA5nuPy.jpg)](http://i.imgur.com)
-[![Logo](http://i.imgur.com/7u7stuq.png)](http://i.imgur.com)
+[![Logo](http://i.imgur.com/7u7stuq.png)](http://i.imgur.com/7u7stuq.png)
 
 WSOPLauncher
 ============
